@@ -1,0 +1,11 @@
+.nav ul {
+  list-style: none;
+  display: flex;
+  gap: 5rem;
+}
+
+.nav a:link,
+.nav a:visited {
+    text-decoration: none;
+    color: white;
+}

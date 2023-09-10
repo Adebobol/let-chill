@@ -1,0 +1,17 @@
+.all {
+  color: black;
+  display: flex;
+  height: 5rem;
+  text-decoration: none;
+  gap: 1rem;
+}
+
+.all img {
+  width: 4rem;
+  height: 5rem;
+}
+
+.all .middle {
+  display: flex;
+  flex-direction: column;
+}

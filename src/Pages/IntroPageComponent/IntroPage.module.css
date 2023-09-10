@@ -1,0 +1,16 @@
+.intro {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+}
+
+.introNav {
+  display: flex;
+  justify-content: space-between;
+  /* position: absolute; */
+}
+
+.introMiddle {
+    /* position: absolute; */
+    /* z-index: 3; */
+}
